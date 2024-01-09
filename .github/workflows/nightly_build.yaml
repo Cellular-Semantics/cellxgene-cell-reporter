@@ -1,0 +1,58 @@
+name: Nightly Build
+
+on:
+  schedule:
+    - cron: "59 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-and-publish:
+    name: Publish Python distributions to PyPI
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
+      - name: Set up Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: temurin
+          cache: maven
+
+      - name: Get robot.jar
+        run: |
+          wget https://github.com/ontodev/robot/releases/download/v1.9.5/robot.jar -O robot/robot.jar
+          chmod +x robot/robot.jar
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install Project Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Templates generation
+        run: |
+          PYTHONPATH=./src:$PYTHONPATH python src/cl_coverage.py
+
+      - name: Ontology generation
+        run: |
+          cd robot
+          java -jar robot.jar --prefixes template_prefixes.json template --template ../templates/cellxgene_subset.tsv --output ../cellxgene_subset.owl
+
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Nightly build"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.head_ref }}

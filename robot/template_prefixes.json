@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "cl": "http://purl.obolibrary.org/obo/cl#",
+    "CL": "http://purl.obolibrary.org/obo/CL_",
+    "oboInOwl": "http://www.geneontology.org/formats/oboInOwl#"
+  }
+}
