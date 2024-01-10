@@ -5,6 +5,7 @@ import pandas as pd
 
 
 TEMPLATE_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), "../templates/cellxgene_subset.tsv")
+README_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), "../README.md")
 
 
 def report_cl_coverage(species):
@@ -45,9 +46,24 @@ def generate_robot_template(mentioned_terms):
     robot_template.to_csv(TEMPLATE_PATH, sep="\t", index=False)
 
 
-if __name__ == "__main__":
-    cl_terms = set(report_cl_coverage("homo_sapiens"))
-    cl_terms.update(set(report_cl_coverage("mus_musculus")))
-    print("Total {} unique CL terms mentioned in CxG census.".format(len(cl_terms)))
+def update_read_me(total_count, counts_dict):
+    readme = "# CellxGene Cell Ontology Coverage \n"
+    readme += "There are **{}** unique Cell Ontology terms referenced within CellxGene.\n\n".format(total_count)
+    readme += "| Species | CL terms |\n"
+    readme += "|---------|----------|\n"
+    for species in counts_dict:
+        readme += "| {} | {} |\n".format(species, counts_dict[species])
+    readme += "\n"
 
-    generate_robot_template(cl_terms)
+    with open(README_PATH, "w") as readme_file:
+        readme_file.write(readme)
+
+
+if __name__ == "__main__":
+    hs_cl_terms = set(report_cl_coverage("homo_sapiens"))
+    mm_cl_terms = set(report_cl_coverage("mus_musculus"))
+    all_cl_terms = hs_cl_terms.union(mm_cl_terms)
+
+    print("Total {} unique CL terms mentioned in CxG census.".format(len(all_cl_terms)))
+    generate_robot_template(all_cl_terms)
+    update_read_me(len(all_cl_terms), {"human": len(hs_cl_terms), "mouse": len(mm_cl_terms)})
