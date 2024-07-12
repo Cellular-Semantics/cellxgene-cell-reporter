@@ -26,6 +26,8 @@ def report_cl_coverage(species):
         # print(cell_metadata)
 
         mentioned_terms = cell_metadata.cell_type_ontology_term_id.unique().tolist()
+        if "unknown" in mentioned_terms:
+            mentioned_terms.remove("unknown")
         print("{} unique CL terms mentioned at {} datasets.".format(len(mentioned_terms), species))
         # print(mentioned_terms[:10])
 
