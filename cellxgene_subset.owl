@@ -55,14 +55,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CL_0000003 -->
-
-    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000003">
-        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
-    </Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/CL_0000006 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000006">
@@ -199,6 +191,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000056 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000056">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000057 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000057">
@@ -311,6 +311,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000083 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000083">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000084 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000084">
@@ -370,6 +378,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000100 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000100">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000101 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000101">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -735,6 +751,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000207 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000207">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000209 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000209">
@@ -751,9 +775,33 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000212 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000212">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000216 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000216">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000218 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000218">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000221 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000221">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -778,14 +826,6 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000233 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000233">
-        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
-    </Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/CL_0000234 -->
-
-    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000234">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -823,14 +863,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CL_0000255 -->
-
-    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000255">
-        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
-    </Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/CL_0000287 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000287">
@@ -855,6 +887,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000317 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000317">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000319 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000319">
@@ -866,6 +906,22 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000322 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000322">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000324 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000324">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000349 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000349">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -911,6 +967,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000402 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000402">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000432 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000432">
@@ -927,6 +991,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000449 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000449">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000451 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000451">
@@ -938,6 +1010,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000453 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000453">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000459 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000459">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -1023,9 +1103,25 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000516 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000516">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000525 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000525">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000527 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000527">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -1082,14 +1178,6 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000547 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000547">
-        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
-    </Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/CL_0000548 -->
-
-    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000548">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -1351,6 +1439,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000652 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000652">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000653 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000653">
@@ -1546,6 +1642,78 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000751 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000751">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000752 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000752">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000753 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000753">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000754 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000754">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000756 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000756">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000757 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000757">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000758 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000758">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000759 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000759">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000760 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000760">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000761 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000761">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -1999,6 +2167,22 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000879 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000879">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000889 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000889">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000890 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000890">
@@ -2167,6 +2351,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0000917 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000917">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0000921 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000921">
@@ -2178,6 +2370,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000922 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000922">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000928 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000928">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -2234,6 +2434,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0000940 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000940">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0000945 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0000945">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -2671,6 +2879,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002067 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002067">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002071 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002071">
@@ -2682,6 +2898,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002075 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002075">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002076 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002076">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -2730,6 +2954,22 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002097 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002097">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002099 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002099">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002102 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002102">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -2826,6 +3066,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002157 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002157">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002167 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002167">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -2999,6 +3247,22 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002255 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002255">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002257 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002257">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002258 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002258">
@@ -3010,6 +3274,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002259 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002259">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002260 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002260">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -3183,6 +3455,22 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002334 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002334">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002335 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002335">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002337 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002337">
@@ -3247,6 +3535,22 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002361 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002361">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002362 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002362">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002363 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002363">
@@ -3295,9 +3599,9 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CL_0002371 -->
+    <!-- http://purl.obolibrary.org/obo/CL_0002372 -->
 
-    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002371">
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002372">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -3306,6 +3610,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002375 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002375">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002376 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002376">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -3423,6 +3735,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002477 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002477">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002480 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002480">
@@ -3442,6 +3762,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002489 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002489">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002491 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002491">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -3495,6 +3823,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002536 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002536">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002538 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002538">
@@ -3527,6 +3863,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002546 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002546">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002548 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002548">
@@ -3543,6 +3887,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002554 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002554">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002555 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002555">
@@ -3554,6 +3906,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002563 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002563">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002565 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002565">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -3671,6 +4031,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002621 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002621">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002622 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002622">
@@ -3682,6 +4050,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0002623 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002623">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0002626 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002626">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -3735,6 +4111,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0002672 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002672">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0002673 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0002673">
@@ -3759,9 +4143,65 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0003001 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0003001">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0003050 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0003050">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0004213 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0004213">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0004214 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0004214">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0004215 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0004215">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0004216 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0004216">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0004217 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0004217">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0004218 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0004218">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -3858,6 +4298,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0005026 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0005026">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0007005 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0007005">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -4175,9 +4623,41 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0011001 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011001">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0011004 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011004">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0011005 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011005">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0011010 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011010">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0011011 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011011">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -4239,9 +4719,33 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0011028 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011028">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0011031 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011031">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0011101 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011101">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0011102 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011102">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -4263,6 +4767,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0011113 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011113">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0011115 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0011115">
@@ -4279,9 +4791,25 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_0015000 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0015000">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_0017000 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0017000">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0017001 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0017001">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -4298,6 +4826,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0019003 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0019003">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_0019018 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_0019018">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -4362,6 +4898,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_0019032 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_0019032">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_1000042 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_1000042">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -4583,6 +5127,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_1000409 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_1000409">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_1000413 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_1000413">
@@ -4778,6 +5330,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_1000692 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_1000692">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_1000695 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_1000695">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -5023,6 +5583,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_1001451 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_1001451">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_1001474 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_1001474">
@@ -5034,6 +5602,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_1001516 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_1001516">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_1001567 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_1001567">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -5111,6 +5687,14 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_2000008 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000008">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_2000016 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000016">
@@ -5130,6 +5714,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_2000021 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000021">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_2000030 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000030">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -5175,6 +5767,22 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_2000047 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000047">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_2000054 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000054">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_2000055 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000055">
@@ -5202,6 +5810,14 @@
     <!-- http://purl.obolibrary.org/obo/CL_2000064 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000064">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_2000084 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_2000084">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -5298,6 +5914,22 @@
     <!-- http://purl.obolibrary.org/obo/CL_4023018 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023018">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4023026 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023026">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4023029 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023029">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -5431,9 +6063,41 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_4023068 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023068">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_4023070 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023070">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4023072 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023072">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4023083 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023083">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4023120 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023120">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -5447,9 +6111,33 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/CL_4023161 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023161">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/CL_4023181 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023181">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4023188 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023188">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4023189 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4023189">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
     
@@ -5522,6 +6210,262 @@
     <!-- http://purl.obolibrary.org/obo/CL_4030028 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/CL_4030028">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4030032 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4030032">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4030033 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4030033">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4030059 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4030059">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4030063 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4030063">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4030066 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4030066">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4030067 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4030067">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033005 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033005">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033013 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033013">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033015 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033015">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033019 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033019">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033024 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033024">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033026 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033026">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033027 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033027">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033028 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033028">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033029 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033029">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033030 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033030">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033031 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033031">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033032 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033032">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033033 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033033">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033034 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033034">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033035 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033035">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033036 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033036">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033038 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033038">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033039 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033039">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033042 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033042">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033043 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033043">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033044 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033044">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033048 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033048">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033053 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033053">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033054 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033054">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033057 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033057">
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CL_4033058 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/CL_4033058">
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/cl#cellxgene_subset"/>
     </Class>
 </rdf:RDF>

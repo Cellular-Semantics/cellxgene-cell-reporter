@@ -1,8 +1,8 @@
 # CellxGene Cell Ontology Coverage 
-There are **686** unique Cell Ontology terms referenced within CellxGene.
+There are **804** unique Cell Ontology terms referenced within CellxGene.
 
 | Species | CL terms |
 |---------|----------|
-| human | 631 |
-| mouse | 248 |
+| human | 697 |
+| mouse | 363 |
 
